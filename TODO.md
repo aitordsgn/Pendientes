@@ -1,0 +1,1 @@
+- [ ] Cambiar la forma  de importar las fuentes para no usar google fonts y usar fontsource.
